@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am Yiğit Güvenç, an engineering student at METU.
 
 <!--
 **yiitg/yiitg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
